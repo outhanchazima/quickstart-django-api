@@ -166,4 +166,4 @@ You can find the html file to open under docs/build/html/index.html
 
 ## License
 
-Copyright (c) 2022, [Outhan Chazima](https://github.com/outhan-chazima).
+Copyright (c) 2022, [Outhan Chazima](https://github.com/outhanchazima).
